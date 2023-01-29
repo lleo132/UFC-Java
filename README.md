@@ -1,5 +1,5 @@
 # UFC-Java
 
-Bem vindos ao codigo UFC Java, uma luta dentro do metaverso Java, onde lutadores(a) se enfrentam em batalhas em busca da gloria!!
+Bem vindos ao codigo UFC Java. Explore lutas dentro do metaverso Java e conquista a glória!!
 
 
